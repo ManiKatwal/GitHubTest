@@ -45,6 +45,7 @@ public class IfMain {
 		switch (Grade) {
 		case 'A':
 			System.out.println("You have earned grade A");
+			System.out.println();
 			break;
 		case 'B':
 			System.out.println("You have earned grade B");
